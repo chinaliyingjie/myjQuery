@@ -441,3 +441,4 @@ window.jQuery = window.$ = jQuery;
 
 })( window );
 
+console.log('测试代码同步')
