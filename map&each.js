@@ -11,6 +11,8 @@ jQuery.fn.extend({
         return jQuery.map( this, callback );
     }
 });
+var a = '测试提交'
+console.log(a)
 /*扩展的jQuery原型对象方法*/
 jQuery.extend({
     each: function ( array, callback ) {
